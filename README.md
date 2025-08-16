@@ -22,7 +22,7 @@ From designing clean UIs to training deep models, I like taking ideas all the wa
 ---
 
 ## 📊 Portfolio (in progress)
-![(https://uplifted-homeowners-197905.framer.app/)]
+- https://uplifted-homeowners-197905.framer.app/
 
 ---
 
