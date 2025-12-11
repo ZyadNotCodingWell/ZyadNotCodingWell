@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://camo.githubusercontent.com/7e5a90e17f0a55d0b9c0130d16c9f3e5b79bb20a2b0266f0aa0b9de9a7f2f31f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5a7961642d466c617365626f6172642d6233323332363f7374796c653d666f722d7468652d6261646765266c6f676f3d7a796164266c6f676f436f6c6f723d7768697465" alt="Zyad" />
-</p>
-
 <h1 align="center">👋 Hey, I'm Zyad</h1>
 <p align="center">
   I build stuff at the intersection of <b>Frontend ⚡ Full-Stack ⚡ Data Science & AI</b><br/>
