@@ -55,7 +55,7 @@
 ---
 
 ## 📊 Portfolio
-[![My App](https://user-images.githubusercontent.com/XXXX/XXXX.gif)](https://uplifted-homeowners-197905.framer.app/)  
+[![My App](assets/portfolio.png)](https://uplifted-homeowners-197905.framer.app/)  
 
 ---
 
